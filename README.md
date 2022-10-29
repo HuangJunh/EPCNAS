@@ -10,4 +10,4 @@ J. Huang, B. Xue, Y. Sun, M. Zhang and G. G. Yen, "Particle Swarm Optimization f
   volume={},\
   number={},\
   pages={1-15},\
-  doi={10.1109/TEVC.2022.3217290}}\
+  doi={10.1109/TEVC.2022.3217290}}
