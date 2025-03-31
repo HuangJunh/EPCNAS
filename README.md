@@ -7,7 +7,7 @@ https://ieeexplore.ieee.org/abstract/document/9930866
 @ARTICLE{EPCNAS,\
   author={Huang, Junhao and Xue, Bing and Sun, Yanan and Zhang, Mengjie and Yen, Gary G.},\
   journal={IEEE Transactions on Evolutionary Computation},\
-  title={Particle Swarm Optimization for Compact Neural Architecture Search for Image Classification},\ 
+  title={Particle Swarm Optimization for Compact Neural Architecture Search for Image Classification},\
   year={2023},\
   volume={27},\
   number={5},\
